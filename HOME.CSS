@@ -1,0 +1,36 @@
+body{
+    background-image: url(background.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.nav-link{
+    color: #1a6d0d !important;
+    margin: 15px !important;
+}
+h1{
+    text-align: center;
+    color: #2b6821;
+    
+}
+.above{
+    color: #2b6821;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.down{
+    color: #2b6821;
+    font-size: large;
+    margin-top: 30px;
+}
+button{
+    margin: 30px;
+}
+.photo{
+    color: #2b6821;
+    font-size: larger;
+    
+    
+}
